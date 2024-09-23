@@ -20,3 +20,10 @@ Open the .ipynb file in Google Colab and change runtime environment to GPU then 
 A GIF segment simulating the image generation process of the model
 
 ![Alt text](demo.gif)
+
+
+## References
+
++ DDPM [Paper](https://arxiv.org/pdf/2006.11239.pdf) 
+
++ DDPM [Blog post](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) 
