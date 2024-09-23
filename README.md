@@ -16,5 +16,7 @@ Open the .ipynb file in Google Colab and change runtime environment to GPU then 
 
 
 ## Demo
+
 A GIF segment simulating the image generation process of the model
+
 ![Alt text](demo.gif)
