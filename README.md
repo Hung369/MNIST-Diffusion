@@ -17,5 +17,5 @@ Open the .ipynb file in Google Colab and change runtime environment to GPU then 
 
 ## Demo
 
-Insert gif or link to demo
+Generate randomly a number from noisy image
 
